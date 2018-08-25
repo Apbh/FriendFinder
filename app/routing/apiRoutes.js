@@ -13,7 +13,6 @@ module.exports = function (app) {
         var newFriend = req.body;
         //converting scores to array of numbers
         var results = newFriend.scores;
-        // var stringnumber = results.toString();
         var numberArray = results.map(Number);
         // console.log(numberArray);
         var bestMatch;
