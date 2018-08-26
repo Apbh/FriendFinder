@@ -2,7 +2,7 @@
 ***
 
 ## Description
-In need of a 'forever' kind of companion? Try Friend Finder to find a pet that best matches you and your lifestyle. This app has been built for trial purposes only, and the pets displayed are not up for adoption. The scope of this app can be extended to find pets and owners that have matching personalities and maybe even lifestyles (can't guarantee a wine-loving kitty).
+In need of a 'forever' kind of companion? Try Friend Finder to find a pet that best matches you and your lifestyle. This app has been built for trial purposes only, and the pets displayed are not up for adoption. The scope of this app can be extended to find pets and owners that have matching personalities and maybe even lifestyles (can't guarantee a wine loving kitty).
 
 ## How it Works
 Answer 10 survey questions and your responses will be used to calculate your best match. On clicking 'Submit', your best match will show up.
