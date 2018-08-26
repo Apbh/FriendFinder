@@ -21,7 +21,7 @@ https://young-shore-28383.herokuapp.com/
 * Install all required packages
 * Set up PORT varible to a value of your choice
 * Finally run node server.js
-* Access homepage via the URL 'http://localhost:PORT', where PORT refers to PORT value you have assigned
+* Access homepage via the URL 'http://localhost:PORT', replace PORT with the PORT value you have assigned.
 
 ## Technologies Used
 * Javascript
