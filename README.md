@@ -1,4 +1,5 @@
 # Friend Finder
+***
 
 ## Description
 In need of a 'forever' kind of companion? Try Friend Finder to find a pet that best matches you and your lifestyle. This app has been built for trial purposes only, and the pets displayed are not up for adoption. The scoop of this app can be extended to find pets and owners that have matching personalities and lifestyle preferences.
