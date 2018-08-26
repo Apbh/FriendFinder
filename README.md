@@ -7,7 +7,8 @@ In need of a 'forever' kind of companion? Try Friend Finder to find a pet that b
 ## How it Works
 Answer 10 survey questions and your responses will be used to calculate your best match. On clicking 'Submit', your best match will show up.
 
-## Live Link
+## Live Link- on Heroku
+https://young-shore-28383.herokuapp.com/
 
 
 ## Requirements/Components
