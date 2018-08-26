@@ -30,5 +30,6 @@ Answer 10 survey questions and your responses will be used to calculate your bes
 * HTML
 * CSS
 
-## 
+## Copyright
+Apbh (2018). All Rights Reserved
 
